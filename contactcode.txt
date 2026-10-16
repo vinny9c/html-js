@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Summit Technical College - Contact Us</title>
+</head>
+
+<body bgcolor="skyblue">
+
+    <br><br><br><br><br>
+
+    <center>
+        <h1>Contact Us</h1>
+
+        <p>Summit Technical College</p>
+        <p>P.O. BOX 47-7222</p>
+        <p>Nairobi, Kenya</p>
+        <p><i>Or</i> call 0756565656</p>
+
+        <img src="download.webp" alt="Social media icon" width="30" height="40">
+        <img src="OIP (1).webp" alt="Social media icon" width="30" height="40">
+        <img src="OIP.webp" alt="Social media icon" width="30" height="40">
+        <img src="552489.png" alt="Social media icon" width="30" height="40">
+        <img src="3046121.png" alt="Social media icon" width="30" height="40">
+
+    </center>
+
+</body>
+</html>
